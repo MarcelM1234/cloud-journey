@@ -16,7 +16,7 @@ options for my family.
 
   
 **Projects (live/soon)**
-(whatever projects or workshops you will do)
+
 
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
