@@ -23,6 +23,7 @@ lessons learned → what I'd do differently.
 **Contact/Connect**
 - LinkedIn: <www.linkedin.com/in/marcel-m-a93718177>
 - Notes: If you’re hiring for junior cloud/security roles, I’m documenting proof every week
+  
 Posted(2/7/2026)
 
 
@@ -50,4 +51,5 @@ Cost: $0 (AWS Free Tier).
 
 ## Skills Highlighted
 AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
+
 (Posted)2/8/2026
