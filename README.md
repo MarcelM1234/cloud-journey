@@ -53,3 +53,47 @@ Cost: $0 (AWS Free Tier).
 AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
 
 (Posted)2/8/2026
+
+
+
+##AWS IAM Admin User Setup 
+
+Overview
+In this module, I implemented identity security best practices in AWS by creating an administrative IAM user and discontinuing daily use of the root account. This exercise demonstrates foundational cloud security and access management skills.
+
+##Objectives
+- Avoid using the AWS root account for routine work
+- Create a dedicated IAM admin user
+- Assign appropriate permissions securely
+- Enable console access
+- Verify successful login with the new identity
+
+##Steps Performed
+1️. Root Login 
+- Logged into AWS using the root account (one final time)
+- Navigated to IAM Dashboard
+
+2️. Create IAM Admin User
+- Created a new IAM user
+- Enabled AWS Management Console access
+- Set initial password and required reset on first login
+
+3️. Assign Permissions
+- Attached policy:
+- AdministratorAccess
+- Verified policy attachment
+
+4️. Secure Root Account
+- Logged out of root account
+- Reserved root for account ownership/emergency use only
+
+5️. Validate Access
+- Logged in using new IAM admin credentials
+- Confirmed successful access to services
+
+##Outcome
+- IAM administrative user created
+- AdministratorAccess policy applied
+- Successful login using IAM identity
+-Root account no longer used for daily tasks
+
