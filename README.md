@@ -56,9 +56,7 @@ AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
 
 
 
-
-
-##AWS IAM Admin User Setup 
+AWS IAM Admin User Setup 
 
 Overview
 
