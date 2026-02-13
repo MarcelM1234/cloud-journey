@@ -56,19 +56,24 @@ AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
 
 
 
+
+
 ##AWS IAM Admin User Setup 
 
 Overview
+
 In this module, I implemented identity security best practices in AWS by creating an administrative IAM user and discontinuing daily use of the root account. This exercise demonstrates foundational cloud security and access management skills.
 
-##Objectives
+Objectives
+
 - Avoid using the AWS root account for routine work
 - Create a dedicated IAM admin user
 - Assign appropriate permissions securely
 - Enable console access
 - Verify successful login with the new identity
 
-##Steps Performed
+Steps Performed
+
 1️. Root Login 
 - Logged into AWS using the root account (one final time)
 - Navigated to IAM Dashboard
@@ -91,7 +96,7 @@ In this module, I implemented identity security best practices in AWS by creatin
 - Logged in using new IAM admin credentials
 - Confirmed successful access to services
 
-##Outcome
+Outcome
 - IAM administrative user created
 - AdministratorAccess policy applied
 - Successful login using IAM identity
