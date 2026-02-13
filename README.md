@@ -56,9 +56,11 @@ AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
 
 
 
-AWS IAM Admin User Setup 
 
-Overview
+
+## AWS IAM Admin User Setup 
+
+## Overview
 
 In this module, I implemented identity security best practices in AWS by creating an administrative IAM user and discontinuing daily use of the root account. This exercise demonstrates foundational cloud security and access management skills.
 
